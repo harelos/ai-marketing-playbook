@@ -21,7 +21,7 @@ Drop these into your Claude Code project as skills, or paste the relevant one at
 
 I am Harel, a direct-response marketer who ships the product, not just the copy. I build AI-first tools with Claude Code and any-LLM stacks.
 
-More of what I build: [github.com/harelos](https://github.com/harelos). Building something AI-first and want a marketer who can also ship it? Reach me at **admin@99jersey.com**.
+More of what I build: [github.com/harelos](https://github.com/harelos). Building something AI-first and want a marketer who can also ship it? Reach me at **support@tigerbrandsglobal.com**.
 
 ## License
 
